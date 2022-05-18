@@ -43,7 +43,6 @@
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
 
