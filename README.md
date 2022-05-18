@@ -14,10 +14,10 @@
 
 ## 🙋‍♀️ About me
 
-<img align="right" alt="GIF" height="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60" />
+<img align="right" alt="GIF" height="181" src="https://salokyakumar.me/assets/images/programing.gif" />
 
 * 📚 Self-taught study.
-* 💚 I love mathematics.
+* 💚 I love solve algorithms problems.
 * 📌 I'm currently working on my portafolio. 
 * 🙌 I'm working on creating a blog!
 * 🗺️ Languages: Spanish and English
@@ -26,14 +26,27 @@
    Languages and Tools
 -->
 ## 🛠️ Languages and Tools
+
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
+<code><img height="35" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="c#" /></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_azure_icon_130731.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
 
-
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png"></code>
+
 
 <!--
   Github stats
