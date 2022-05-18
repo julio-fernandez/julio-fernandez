@@ -73,7 +73,7 @@ Feel free to drop in a message!
   <img height="35" align="left" alt="Julio Cesar's Twitter" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png">
 </a>
 <a href="mailto:cesarfdez_-_@hotmail.com">
-   <img height="35" align="left" alt="Julio Cesar's Twitter" src="https://cdn.icon-icons.com/icons2/41/PNG/128/openedmailemailmessage_openedmailcorreoelectronic_7035.png">
+   <img height="35" align="left" alt="Julio Cesar's Twitter" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png">
 </a>
 
 
