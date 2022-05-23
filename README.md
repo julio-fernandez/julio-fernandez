@@ -45,7 +45,7 @@
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
-
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"></code>
 
 <!--
   Github stats
